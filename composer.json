@@ -1,5 +1,6 @@
 {
     "name": "pawcode/core",
+    "description": "Paw Core Library",
     "type": "paw-plugin",
     "license": "MIT",
     "authors": [
