@@ -7,4 +7,5 @@ modules:
     enabled:
         - Asserts
         - \pawcode\core\tests\Helper\Unit
+        - Yii2
     step_decorators: ~        
